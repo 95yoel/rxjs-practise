@@ -6,6 +6,12 @@ Browsing through it you will see different elements of the rxjs library for angu
 
 ## Install
 
+1. Clone this repository :
+
+    ```bash
+    git clone https://github.com/95yoel/docker-todo-app-fastapi-angular
+    ```
+
     1.  Clone this repository : 
 
         ```bash
