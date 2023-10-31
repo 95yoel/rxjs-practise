@@ -4,11 +4,11 @@ This project has been generated with [Angular CLI](https://github.com/angular/an
 
 Browsing through it you will see different elements of the rxjs library for angular in operation, in addition to having a link to the documentation
 
-## Installation
+## Install
 
     1.  Clone this repository : 
     ```bash
-    https://github.com/95yoel/rxjs-practise.git
+    git clone https://github.com/95yoel/rxjs-practise.git
     ```
     2. Install all the dependencies
     ```bash
