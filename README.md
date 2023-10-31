@@ -7,13 +7,15 @@ Browsing through it you will see different elements of the rxjs library for angu
 ## Install
 
     1.  Clone this repository : 
-    ```bash
-    git clone https://github.com/95yoel/rxjs-practise.git
-    ```
-    2. Install all the dependencies
-    ```bash
-    npm install
-    ```
+
+        ```bash
+        git clone https://github.com/95yoel/rxjs-practise.git
+        ```
+    2. Install all the dependencies:
+
+        ```bash
+        npm install
+        ```
 
 ## Usage 
 
