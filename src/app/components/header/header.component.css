@@ -1,0 +1,20 @@
+main{
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-around;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 10px 13px -7px #000000, 0px 0px 15px 0px rgba(0,0,0,0.1);   
+}
+div{
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    transition: 0.3s;
+}
+div:hover{
+    color: black;
+    background-color: rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+

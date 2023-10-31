@@ -1,0 +1,13 @@
+<main>
+    <h3>Current value : {{valueSubject$.value}}</h3>
+    <section>
+        <label>
+            Value : <input type="text" (change)="setInputValue($event)" placeholder="Input number">
+            <button type="submit" (click)="setValue()">Send</button>
+        </label>
+    </section>
+    <section>
+        <p>In this example, I am utilizing <a href="https://www.learnrxjs.io/learn-rxjs/subjects/behaviorsubject" target="_blank">Behavior Subject</a>.</p>
+        <p><i>Please keep open the console.</i></p>
+    </section>
+</main>

@@ -1,0 +1,11 @@
+main{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+section{
+    margin:20px;
+}
+
+::placeholder{
+    text-align: center;
+}
